@@ -1,5 +1,5 @@
 <div>
-	<img src="./logo/siren_logo.jpg" alt="siren" width="450"/>
+	<img src="./logo/siren_logo.png" alt="siren" width="450"/>
 </div>
 
 <h1>Siren</h1>
