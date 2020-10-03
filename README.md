@@ -1,5 +1,5 @@
-<div>
-	<img style="border-radius: 30px;" src="./logo/siren_logo.jpg" alt="siren" width="400"/>
+<div style="border-radius: 30px;">
+	<img src="./logo/siren_logo.jpg" alt="siren" width="400"/>
 </div>
 
 <h1>Siren</h1>
